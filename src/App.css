@@ -8,6 +8,7 @@
     grid-template-columns: 2fr 10fr;
     grid-gap: 10px;
     background-color: #F1FFFA;
+    width: 1200px;
 }
 
 
