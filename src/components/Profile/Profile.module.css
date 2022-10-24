@@ -1,0 +1,13 @@
+.content {
+  grid-area: c;
+  background-color: #ccfccb;
+}
+
+.banner {
+  width: 100%;
+  height: 150px;
+}
+
+.avatar {
+  width: 120px;
+}
